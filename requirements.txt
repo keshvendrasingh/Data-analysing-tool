@@ -1,0 +1,11 @@
+streamlit==1.26.0
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+statsmodels
+streamlit-authenticator
+streamlit-extras
+xlsxwriter
+openpyxl

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="160" rx="20" fill="#F0F8FF"/>
+  <path d="M35 115V45C35 41.134 38.134 38 42 38H118C121.866 38 125 41.134 125 45V115C125 118.866 121.866 122 118 122H42C38.134 122 35 118.866 35 115Z" fill="white" stroke="#4F8BF9" stroke-width="3"/>
+  <path d="M45 85L55 67L65 75L75 57L85 67L95 47L105 62L115 52" stroke="#3182CE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 105L55 95L65 100L75 85L85 92L95 78L105 88L115 80" stroke="#4F8BF9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="55" cy="67" r="3" fill="#1E3A8A"/>
+  <circle cx="75" cy="57" r="3" fill="#1E3A8A"/>
+  <circle cx="95" cy="47" r="3" fill="#1E3A8A"/>
+  <circle cx="115" cy="52" r="3" fill="#1E3A8A"/>
+  <circle cx="55" cy="95" r="3" fill="#4F8BF9"/>
+  <circle cx="75" cy="85" r="3" fill="#4F8BF9"/>
+  <circle cx="95" cy="78" r="3" fill="#4F8BF9"/>
+  <circle cx="115" cy="80" r="3" fill="#4F8BF9"/>
+  <text x="80" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1E3A8A">InsightVista</text>
+</svg>

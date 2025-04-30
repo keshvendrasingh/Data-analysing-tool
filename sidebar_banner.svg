@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="150" viewBox="0 0 300 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="150" fill="url(#paint0_linear)"/>
+  <path d="M50 100C66.6667 80 100 40 150 60C200 80 250 40 275 20" stroke="rgba(255, 255, 255, 0.3)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M25 90C41.6667 70 75 30 125 50C175 70 225 30 250 10" stroke="rgba(255, 255, 255, 0.2)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="75" cy="80" r="5" fill="white" fill-opacity="0.6"/>
+  <circle cx="125" cy="50" r="5" fill="white" fill-opacity="0.6"/>
+  <circle cx="175" cy="70" r="5" fill="white" fill-opacity="0.6"/>
+  <circle cx="225" cy="30" r="5" fill="white" fill-opacity="0.6"/>
+  <text x="150" y="100" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="white">InsightVista</text>
+  <text x="150" y="125" font-family="Arial, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="white">Smart Data Analytics Platform</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="300" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3182CE"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+</svg>
